@@ -1,4 +1,4 @@
-README.txt
+PART 1: DATA ANALYTICS MODULE
 ===========
 
 Stock Price Prediction Automation Script
