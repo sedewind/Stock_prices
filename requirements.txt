@@ -4,3 +4,4 @@ streamlit
 plotly
 Pillow
 requests
+scikit-learn
