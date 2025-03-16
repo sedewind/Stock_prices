@@ -1,7 +1,7 @@
-pandas
-numpy
-streamlit
-plotly
-Pillow
-requests
-scikit-learn
+pandas==2.2.3
+numpy==2.0.2
+streamlit==1.41.1
+plotly==6.0.0
+Pillow==11.1.0
+requests==2.27.1
+scikit-learn==1.6.1
